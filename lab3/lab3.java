@@ -1,7 +1,6 @@
-// Базовий клас Файл
 class lab3 {
     private String name;
-    private int size; // Розмір файлу в КБ
+    private int size; 
 
     public lab3(String name, int size) {
         this.name = name;
